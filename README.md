@@ -7,7 +7,7 @@ https://tv-show-search-app-iota.vercel.app/
 
 
 
-<img width="404" height="808" alt="Screenshot 2025-09-25 165957" src="https://github.com/user-attachments/assets/bae0d219-25b5-4c2e-81cf-c1e619bcc75b" style="text-align: center"/>
+<img width="404" height="808" alt="Screenshot 2025-09-25 165957" src="https://github.com/user-attachments/assets/bae0d219-25b5-4c2e-81cf-c1e619bcc75b" center/>
 
 
 
