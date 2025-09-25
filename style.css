@@ -1,0 +1,16 @@
+body{
+    background-color:#1c1e21
+}
+.card {
+    border: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+h1 {
+    font-weight: bold;
+}

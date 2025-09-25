@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TV show search App</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container p-4 mt-4">
+        <h1 class="text-center text-primary fw-bold">TV Show Finder 📺</h1>
+        <div class="input-group my-4">
+          <input type="text" class="form-control" placeholder="e.g., Friends, Breaking Bad..." id="searchInput">
+          <button type="button" class="btn btn-primary" id="searchButton">Search</button>
+        </div>
+        <p class="text-light text-center text-opacity-50">Search for a show to see the results here.</p>
+        <div id="searchResults" class="row g-4">
+
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
